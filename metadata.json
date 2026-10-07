@@ -1,0 +1,6 @@
+{
+  "name": "Belleza en un Clic - POS, Catálogo & Gestión",
+  "description": "Aplicación web y móvil omnicanal para cosméticos y cuidado de la piel con Catálogo, Punto de Venta (POS), Inventario en tiempo real y Métricas gerenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
